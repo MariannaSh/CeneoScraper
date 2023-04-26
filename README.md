@@ -19,3 +19,8 @@
 ## Wykorzystane bibilioteki
 - BeautifulSoup4
 - Requests
+- Jason
+- OS
+- Pandas
+- Numpy
+- Matplotlib
